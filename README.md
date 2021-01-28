@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 大家好
+大家好
 <!--
 **zeyuan629/zeyuan629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
